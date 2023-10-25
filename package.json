@@ -1,0 +1,12 @@
+{
+  "name": "service-info",
+  "scripts": {
+    "build": "zarro @"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "zarro": "^1.145.12"
+  }
+}
